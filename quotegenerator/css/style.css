@@ -1,0 +1,50 @@
+
+
+body {
+    background-color:black;
+    background-image: url('../img/background.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+  }
+  
+  h1 {
+    color:white;
+    font-size: 30px;
+  }
+  
+  p {
+    color:white;
+    font-style:italic;
+    font-size:20px;
+  }
+  
+  .quotebox {
+    background-color:grey; 
+    width: 33%;
+    margin: auto;
+    border-color:white;
+    border-style:solid;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding: 20px;
+    height: auto;
+    color:white;
+  }
+  #quote {
+    font-size:30px;
+  }
+  
+  #author {
+    font-size:20px;
+    font-style:italic;
+  }
+  
+  #tweet {
+    background-color:white;
+  
+  }
+  
+  
+  
+  
